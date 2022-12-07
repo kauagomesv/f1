@@ -195,7 +195,7 @@ header.masthead {
     background-size: cover
 }
 
-header.masthead .intro-text { 
+header.masthead .intro-text {
     z-index: 11;
     padding-top: 150px;
     padding-bottom: 100px
